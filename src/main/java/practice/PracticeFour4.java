@@ -5,7 +5,7 @@ import org.testng.Reporter;
 public class PracticeFour4 {
 	public void Practicefour ()
 	{
-		Reporter.log("practice for four");
+		Reporter.log("practice for four i am edited that all ");
 	}
 
 }
